@@ -1,0 +1,26 @@
+body{
+    margin:0px;
+}
+
+p{
+    font-family: 'Playfair Display', serif;
+    font-size: 100px;
+    font-style: italic;
+    margin-left: 70px;
+    margin-top: 50px;
+    line-height: 100px;
+    padding: 10px;
+    position: relative;
+    width: 250px;
+    color: white;
+    background-color: rgba(100, 100, 100, 0.1);
+}
+
+.image{
+    background-image: url("https://r4.wallpaperflare.com/wallpaper/118/736/916/gawr-gura-hololive-blue-eyes-white-hair-hd-wallpaper-6631b6686024bc6e11599a9da016af34.jpg");
+    background-size: cover;
+    background-position: top;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    height: 500px;
+}
