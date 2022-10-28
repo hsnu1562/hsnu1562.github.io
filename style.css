@@ -4,7 +4,7 @@ body{
 
 .image{
     background-image: url("suisei.jpg");
-    background-size: 150%;
+    background-size: 75%;
     background-repeat: no-repeat;
     background-position: top;
     padding-top: 10%;
@@ -19,9 +19,12 @@ p {
     line-height: 100px;
     padding: 20px;
     position: relative;
-    width: 250px;
+    width: 120px;
     color: white;
     background-color: rgba(100, 100, 100, 0.15);
     top: 10%;
     left: 5%;
+}
+a{
+    color: white;
 }
