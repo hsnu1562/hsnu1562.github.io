@@ -6,7 +6,7 @@ body{
     background-image: url("suisei.jpg");
     background-size: 150%;
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: top;
     padding-top: 10%;
     padding-bottom: 10%;
     height: 500px;
